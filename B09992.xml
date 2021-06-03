@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second intelligence from His Excellency his quarters before Reading bearing date there April 25, wherein is contained an exact relation of Colonell Middletons surprizing the Kings regiment of foot at Dorchester 7 miles from Oxford, wherein they took an hundred horse, slew sixty and took about 50 prisoners ; with the true state of the siege at Reading, how the governour is sorely wounded, and the great want the town is in for want of victuals and ammunition and how Sir William Waller pursues P. Maurice, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09992</idno><idno type="EEBO-CITATION">61297154</idno>
+  <idno type="VID">180665</idno>
+  <idno type="EEBO-PROQUEST">2248525005</idno>
+  
+            <idno type="STC">Wing S2280A</idno>
+            <idno type="STC">ESTC R222535</idno>
+            <idno type="OCLC">61297154</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180665)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2840:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second intelligence from His Excellency his quarters before Reading bearing date there April 25, wherein is contained an exact relation of Colonell Middletons surprizing the Kings regiment of foot at Dorchester 7 miles from Oxford, wherein they took an hundred horse, slew sixty and took about 50 prisoners ; with the true state of the siege at Reading, how the governour is sorely wounded, and the great want the town is in for want of victuals and ammunition and how Sir William Waller pursues P. Maurice, &amp;c.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Brown,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Middleton, John Middleton, --  Earl of, 1619-1674.</term>
+               <term type="personal_name">Waller, William, --  Sir, 1597?-1668.</term>
+               <term type="corporate_name">England and Wales. --  Sovereign (1625-1649 : Charles I)</term>
+               <term type="geographic_name">Reading (England) --  History --  Siege, 1643.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180665:1"/>
+            <p>THE Second Intelligence FROM His Excellency HIS QUARTERS <hi>BEFORE</hi> READING: <hi>Bearing Date there Aprill</hi> 25.</p>
+            <p>VVherein is contained an exact relation of Colonell MIDDLETONS surprizing the <hi>KINGS</hi> Regiment of Foot at <hi>Dorchester</hi> 7. miles from <hi>Oxford,</hi> wherein they took an hundred horse, slew sixty, and took about 50. Prisoners.</p>
+            <p>WITH <hi>The true state of the Siege at</hi> Reading, <hi>how the Governour is sorely wounded, and the great want the town is in for want of Victuals and Ammunition, and how Sir</hi> William Waller <hi>pursues P.</hi> Maurice, <hi>&amp;c.</hi>
+            </p>
+            <p>Aprill 27. Printed for William Brown. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180665:2"/>
+            <pb n="1" facs="tcp:180665:2"/>
+            <head>The second Intelligence from his Ex<g ref="char:EOLhyphen"/>cellency his Quarters before <hi>Reading.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my last of the eighteenth of this instant, divers things have faln out; the most remarkable in their nature, and the most certain in the truth, I shall acquaint you with. From other parts that which we un<g ref="char:EOLhyphen"/>derstand, is this, That the Close at Lichfield is surrendred to Prince RUPERT, but upon as good termes as could be expected; their Powder was spent, which made them unca<g ref="char:EOLhyphen"/>pable of resistance; and after much mischief done to their enemies, many slain, and more hurt, they had liberty to march away with Bag and Baggage; from whence we and
+<pb n="2" facs="tcp:180665:3"/>our friends with us may conclude the haz<g ref="char:EOLhyphen"/>zard and difficulty of Sieges. Sir WIL<g ref="char:EOLhyphen"/>LIAM WALLER lies behinde Prince MAURICE, ready to wait upon him as he moves this way: the last we heard of them was, that Sir WILLIAM WALLER was at Tewksbury, the Prince at Sudeley; but now we are informed Prince MAURICE is come to Oxford, and our Quarters are intended. As for our own affairs, they stand thus: as for the town, we understand the state of it, to be full of wants, both of provision and am<g ref="char:EOLhyphen"/>munition; the Welchmen have already fea<g ref="char:EOLhyphen"/>sted with a horse or two, and those lean ones, in regard that horse-meat hath much failed of late, which occasioned an endeavour of the Horse to go away on Saturday night; but but they were stopt by the Foot: so like wise for their ammunition, they want powder, but bullets more, shooting very seldome, and very strange shot, as stones, &amp; such like. The Governour is by all sorts confessed to be wounded; some say; shot in the neck, others, bruised by the fall of a stone from a house; but
+<pb n="3" facs="tcp:180665:3"/>he is so ill, that he executes not his place, which causes much confusion and distracti<g ref="char:EOLhyphen"/>on among them. Some of the Town have come out, and informed us to this purpose, &amp; that they had an intent to leave the town; which it's like enough they would have done, had it not been as hazardous as their stay, in regard of our Quarters. We took pri<g ref="char:EOLhyphen"/>soner on Sunday morning a servant of Sir LEVVIS DIVES, who was sent to give the Town notice of ammunition coming to them; he swam over the river and back a<g ref="char:EOLhyphen"/>gain, but was intercepted, and the Supply was prevented by some Troupes of horse of ours, and Colonel BARKLAYS Regiment, and 200. of Colonell HOLBORNES, who lay in the way about Cavesham: We likewise tooke a fellow equally guilty of folly and knavery; he was once of the Lord RO<g ref="char:EOLhyphen"/>BERTS his Regiment, and ran away to the enemy, and was now hired to blow up our Magazine, as himself confesses, but knew no way, as he says, but to throw a light match in<g ref="char:EOLhyphen"/>to a barrell, supposing he should have found
+<pb n="4" facs="tcp:180665:4"/>one open; he was to have had five pound for his paines; but now instead of that a halter. Yesterday hearing that the King was advancing this way to the reliefe of the Towne with what Force he could make up, which is not much in the absence of his Parties: We sent a strong Party of Horse and Dragooners, under the command of Colo<g ref="char:EOLhyphen"/>nell MIDDLETON, who at a place called Dorchester, seven or eight miles from Ox<g ref="char:EOLhyphen"/>ford, surprized the Kings Regiment of Foot, now again under the command of Colonell WIL. VAVASOUR, that man of honour, by whose losse if we can gain so much wis<g ref="char:EOLhyphen"/>dome as to trust no more of them upon their lost reputation, we shall make a good bar<g ref="char:EOLhyphen"/>gain; who, though he was not there pre<g ref="char:EOLhyphen"/>sent, his Captain and Lievtenant were taken, the Standard againe indangered, about 100. horse taken, and sixty or thereabouts (some say more) slain, and about 50. prisoners; and Captain WATSON the Kings Gentleman Harbinger was taken providing for the Kings march that way; which it may be this
+<pb n="5" facs="tcp:180665:4"/>defeat will a little retard, if not disappoint; which yet we shall provide for: The ad<g ref="char:EOLhyphen"/>vantage could not with safety be pursued, in regard of their whole Body, which was but two miles distant: But we are thankfull for this, and hope ere long to affoord you more and better newes. We received your provisions, which were very welcome; but there must be speciall care taken in laying a setled way for money, which must hold us together. You think that victuals should stop mens mouths, but that alone will not serve the turn. If GOD prosper us in our endeavour against this Town, I hope the re<g ref="char:EOLhyphen"/>putation of it will draw in both your good opinion and supplies. Howsoever things fall out, timely care and provision prevents distractions and discouragements. We have some little addition of Dragoons coming from Bedfordshire, and are in expectation of your gallant Sheriffe, who hath a just and great interest in our esteem here. You have heard many reports, some slanders of my Lord GRAYES Forces, which I doubt not
+<pb n="6" facs="tcp:180665:5"/>but after their time allowed for their en<g ref="char:EOLhyphen"/>trance, vvill shevv themselves good men, as they look to be; they had the accession of a Regiment on Saturday. Sir JOHN MEL<g ref="char:EOLhyphen"/>DRUM, that diligent and adventerous Co<g ref="char:EOLhyphen"/>lonell is sent to them vvith his Regiment, vvho vve doubt not by his example and in<g ref="char:EOLhyphen"/>couragement vvill do much good. It is som<g ref="char:EOLhyphen"/>thing a hot service for young souldiers, but custome vvill make it easie. I vvill detaine you no longer; the next nevves I vvrite vvil be of moment; for doubtlesse vve shall do somthing upon the tovvn, or the King upon us, vvhich vve vvonder he hath not done all this vvhile.</p>
+            <p>The LORD direct and prosper us, and guide our concerned friends to the under<g ref="char:EOLhyphen"/>standing and acting that vvhich may be most for their and our advantage.</p>
+            <closer>
+               <salute>Farevvell.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
